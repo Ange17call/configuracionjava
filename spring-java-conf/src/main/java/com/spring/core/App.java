@@ -17,7 +17,7 @@ public class App {
 	    int resultado =obj.suma(4, 6);
 	     System.out.println("El resultado es:  "+resultado);
 	     
-	     ((AnnotationConfigApplicationContext) context).close();
+	    // ((AnnotationConfigApplicationContext) context).close();
 	}
 
 }
